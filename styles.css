@@ -18,7 +18,7 @@ div#container1 {
   background-color: gray;
   position: relative;
   top: 150px;
-  width: 30%;
+  width: 20%;
   height: 165px;
   margin-left: 50px;
   border: 2px solid black;
@@ -37,7 +37,7 @@ div#container2 {
   background-color: gray;
   position: relative;
   top: 150px;
-  width: 30%;
+  width: 20%;
   height: 165px;
   border: 2px solid black;
 }
@@ -57,7 +57,7 @@ div#container3 {
   background-color: gray;
   position: relative;
   top: 150px;
-  width: 30%;
+  width: 20%;
   height: 165px;
   border: 2px solid black;
 }
